@@ -1,0 +1,1 @@
+Mini JS project for adding book titles with JS and local storage.
